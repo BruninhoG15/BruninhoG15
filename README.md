@@ -1,7 +1,7 @@
 ## Olá! Eu sou Bruno Gabriel
 
 - 🔭 Hoje eu trabalho com Automação Industrial 
-- 🌱 Estudando Python, Java, JavaScript, C#, HTML e CSS
+- 🌱 Estudando Python, Java, JavaScript, HTML e CSS
 - ⚡ Técnologo em Análise e Desenvolvimento de Sistemas
 - 🤔 Estou em busca do primeiro emprego na area de desenvolvimento
 - 💬 Contate-me no email: brunogoliveira8891@gmail.com
@@ -11,9 +11,9 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bruno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Bruno-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Bruno-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
   <img align="center" alt="Bruno-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" />
+  <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img align="center" alt="Bruno-CSS3" heiht="30" width="30g" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
           
 </div>
 
