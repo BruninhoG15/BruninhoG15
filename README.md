@@ -1,7 +1,7 @@
 ## Olá! Eu sou Bruno Gabriel
 
 - 🔭 Hoje eu trabalho com Automação Industrial 
-- 🌱 Estudando Python, Java, JavaScript, C# e PHP
+- 🌱 Estudando Python, Java, JavaScript, C#, HTML e CSS
 - ⚡ Técnologo em Análise e Desenvolvimento de Sistemas
 - 🤔 Estou em busca do primeiro emprego na area de desenvolvimento
 - 💬 Contate-me no email: brunogoliveira8891@gmail.com
