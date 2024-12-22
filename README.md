@@ -1,7 +1,7 @@
 ## Olá! Eu sou Bruno Gabriel
 
 - 🔭 Hoje eu trabalho como Assistente de Ecommerce 
-- 🌱 Estudando Python,JavaScript, HTML e CSS
+- 🌱 Estudando Python, JavaScript, HTML e CSS
 - ⚡ Técnologo em Análise e Desenvolvimento de Sistemas
 - 🤔 Automatização de processos em python
 - 💬 Contate-me no email: brunogoliveira8891@gmail.com
